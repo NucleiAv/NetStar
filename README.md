@@ -9,8 +9,8 @@ NetStar is a Chrome extension that analyzes your network performance. It can be 
 ### Screenshot 1
 ![Netstar3](https://github.com/user-attachments/assets/26fbcbd4-11e3-4ab1-af26-57181462164e)
 
-### Screenshot 1
+### Screenshot 2
 ![Netstar1](https://github.com/user-attachments/assets/93ed1356-5736-4bcf-af5b-26fe206e5272)
 
-### Screenshot 1
+### Screenshot 3
 ![Netstar2](https://github.com/user-attachments/assets/eb2f1e98-4f49-4f45-a5fa-058768b3d621)
