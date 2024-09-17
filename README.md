@@ -1,6 +1,10 @@
 # NetStar
 NetStar is a Chrome extension that analyzes your network performance. It can be installed on any Chromium-based browser, such as Google Chrome, Opera, Brave, and Edge. The extension monitors various web browsing metrics, focusing on the CDN server locations you connect to when visiting top websites in your area. With the integrated M-Lab speed test, checking your internet speed is effortless. A simple click initiates a 1-minute test, providing detailed insights to help you troubleshoot network issues. Additionally, it offers a feature to review historical measurement data from different networks for a quick overview.
 
+## Install
+
+You can install the extension here - https://chrome.google.com/webstore/detail/nbaphkfaldpnmeinjnbcocghdgekncfi
+
 ## Logo
 
 ![128](https://github.com/user-attachments/assets/1d4f64af-b14c-4e15-bd52-65ad9d5b496c)
